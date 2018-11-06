@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Lee-Johnson;Erica;;;
+FN: Erica  Lee-Johnson 
+ORG:AfroDigital Nomadz;
+TITLE:Digital Transformation Officer\nAfroDigital Nomadz
+EMAIL;type=INTERNET;type=WORK;type=pref:erica@afrodigitalnomadz.design
+TEL;type=WORK;type=VOICE:5037500399
+item1.ADR;type=WORK;type=pref:;;17221 S.w. Baseline Road Beaverton, Oregon 97006
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:afrodigitalnomadz.design
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
